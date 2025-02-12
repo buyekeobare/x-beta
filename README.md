@@ -24,8 +24,8 @@ This project is a complete eCommerce web application built to demonstrate the ca
   - Django
   - Sqlite
 
-## Contact
+## Team
 
 - Olayiwola Sulaimon - osulaimon19@yahoo.com
 - Alfred Makura - inforamaiv@gmail.com
-- Buyeke Obare (Backend) - buyekeobare@gmail.com
+- Buyeke Obare (Backend) - @buyekeobare on github
