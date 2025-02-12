@@ -28,4 +28,4 @@ This project is a complete eCommerce web application built to demonstrate the ca
 
 - Olayiwola Sulaimon - osulaimon19@yahoo.com
 - Alfred Makura - inforamaiv@gmail.com
-- Buyeke Obare (Backend) - @buyekeobare on github
+- Buyeke Obare (Backend) - https://github.com/buyekeobare
